@@ -22,7 +22,7 @@ tests, CI/CD config, README, and uninstaller.
 
 ## Windows Quick Start
 
-1. Extract this ZIP somewhere (e.g. `C:\Tools\TestForge\`)
+1. Download exe file somewhere (e.g. `C:\Tools\TestForge\`)
 2. Double-click `TestForge.exe`  
    *(or open Terminal/cmd → `.\TestForge.exe`)*
 3. Follow the prompts
